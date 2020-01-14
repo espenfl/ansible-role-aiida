@@ -78,3 +78,4 @@ aiida_pseudopotentials:
 aiida_rest_service_enabled: false
 
 root_user: root
+python3_path: /usr/bin/python3
